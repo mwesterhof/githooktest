@@ -1,4 +1,4 @@
-from hooks.utils import only_on_branch
+from utils import only_on_branch
 
 
 @only_on_branch('master')
